@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Polkadot.JS extension connection tutorial
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wKqRKkmiOto/0.jpg)](https://www.youtube.com/watch?v=wKqRKkmiOto)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
